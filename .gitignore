@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# Data files
+data/attendance.csv
+data/sessions.csv
+data/registered_students.csv
+data/encodings.pickle
+
+# Uploaded images and generated files
+data/images/
+data/uploads/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
